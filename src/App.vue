@@ -14,7 +14,7 @@
       </ul>
       <modal v-if="showModal" @close="showModal=false">
       </modal>
-  </div>    
+  </div>
 </template>
 
 <script>

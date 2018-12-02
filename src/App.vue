@@ -70,7 +70,7 @@ export default {
                   icons: ["fas fa-paint-brush", "fas fa-laptop"]
               },
               {
-                  title: "Junior IT-supporttekniker",
+                  title: "Junior IT-support",
                   employer: "Bravura",
                   location: "Stockholm",
                   icons: ["fas fa-laptop", "fas fa-phone"]

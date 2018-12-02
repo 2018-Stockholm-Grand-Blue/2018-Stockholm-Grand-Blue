@@ -48,7 +48,13 @@
 </script>
 
 <style>
+    .fa-star, .fa-times {
+        cursor: pointer;
+    }
 
+    .fa-star:hover {
+        font-weight: 900;
+    }
 
     .modal-mask {
         position: fixed;
@@ -60,7 +66,6 @@
         background-color: rgba(0, 0, 0, .5);
         display: table;
         transition: opacity .3s ease;
-        font: 'Muli', sans-serif;
     }
 
     .modal-wrapper {

@@ -29,6 +29,7 @@ None
 ### languages used
 
 * English
+* Swedish
 * Javascript 
 * HTML - CSS
 
@@ -37,7 +38,7 @@ None
 * George Karageozian
 * Matilda Ekermann
 * Nafen Haj Ahmad
-* Frederika Holmberg
+* Fredrika Holmberg
 * François Le Pape
 
 ### Link to presentation

@@ -40,6 +40,11 @@ None
 * Frederika Holmberg
 * François Le Pape
 
+### Link to presentation
+
+Link to clickable mockup (figma): 
+https://www.figma.com/file/TU0FtnayRhg8UZBEc8hNbk2I/Grand-blue-openhack-2018?node-id=0%3A1
+
 
 ### Open source license
 

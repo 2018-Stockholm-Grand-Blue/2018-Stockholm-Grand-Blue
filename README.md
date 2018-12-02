@@ -29,7 +29,8 @@ None
 ### languages used
 
 * English
-* Javascript (+ HTML - CSS)
+* Javascript 
+* HTML - CSS
 
 ### Team Members
 
